@@ -18,11 +18,6 @@
         <java.version>17</java.version>
         <spring-cloud.version>2023.0.0</spring-cloud.version>
     </properties>
-    <packaging>pom</packaging>
-    <modules>
-        <module>microservize-1</module>
-        <module>microservize-2</module>
-    </modules>
     <dependencies>
         <dependency>
             <groupId>org.springframework.cloud</groupId>
